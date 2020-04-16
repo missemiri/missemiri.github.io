@@ -1,11 +1,21 @@
 /* THis is my CSS file for index.html*/
+.header-container {
+  padding: 180px 0 100px 0;
+  background-image: url(top.png);
+  background-size: cover;
+}
 
+.header-container p {
+  color: rgba(255, 255, 255, 0.5);
+  text-align: center;
+}
 
 h1 {
   color: #02ccba;
 }
 
-p {
+.main-container p {
   background-color:#02ccba;
   color: white;
 }
+
